@@ -2,4 +2,4 @@
 
 **Credentials Hardcoded:** The database credentials are hardcoded in the variable file, which is not recommended as it exposes sensitive information.
 
-**Recommended Approach:** Instead, create secrets in GitHub and reference those credentials to enhance security.
+**Recommended Approach:** Instead, we can create secrets in GitHub and reference those credentials to enhance security.
